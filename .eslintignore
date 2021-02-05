@@ -1,0 +1,8 @@
+node_modules/
+dist/
+mock/
+tests/
+/lambda/
+/scripts
+# /config
+.history
